@@ -18,12 +18,3 @@ pages={4986-4998},\
 note = {doi: 10.1109/TIFS.2024.3388949},\
 year={2024}\
 }
-
-@article{wang2022looking,
-  title={Looking and Hearing into Details: Dual-enhanced Siamese Adversarial Network for Audio-Visual Matching},
-  author={Wang, Jiaxiang and Li, Chenglong and Zheng, Aihua and Tang, Jin and Luo, Bin},
-  journal={IEEE Transactions on Multimedia},
-  volume={25},
-  pages = {7505-7516},
-  year={2023}
-}
