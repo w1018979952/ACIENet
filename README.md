@@ -13,7 +13,7 @@ torchvision 0.5.0
 #  VoxCeleb1
 - wav audio data, 1,251 people in total, 39 GB after decompression.
 - Baidu Cloud link: [VoxCeleb1](https://pan.baidu.com/s/1DtNDgQHfUmlbGsLsKA2nqA?pwd=wsie)
-- VoxCeleb Document Classification：[VoxCeleb1](https://pan.baidu.com/s/1UUJPGgyxquXgIcFtGnG_AQ?pwd=hm33）
+- VoxCeleb Document Classification：[VoxCeleb1 Document](https://pan.baidu.com/s/1UUJPGgyxquXgIcFtGnG_AQ?pwd=hm33)
 - Decompression command:
 - zip -s 0 split.zip --out unsplit.zip
 - unzip unslit.zip
