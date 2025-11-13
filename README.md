@@ -9,7 +9,7 @@ torchvision 0.5.0
 # Get Dataset and Paper
 - Download the [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html), [VGGFace](https://www.dropbox.com/s/bqsimq20jcjz1z9/VGG_ALL_FRONTAL.zip?dl=0)
 - Latest Paper List [Audio-visual matching](https://github.com/w1018979952/Audio-Visual-Matching)
-- Code：samplers.zip [samplers](https://pan.baidu.com/s/1akoW9CMMx1RaYnBbZD_3yw)
+- Code：samplers.zip [samplers](https://pan.baidu.com/s/1K1L7sTp3O_E0YmasBbxFzg?pwd=q81j)
 
 #  VoxCeleb1
 - wav audio data, 1,251 people in total, 39 GB after decompression.
