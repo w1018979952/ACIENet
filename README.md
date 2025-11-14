@@ -29,7 +29,7 @@ torchvision 0.5.0
 - unzip unslit.zip
 
 - Vox2 official website: [VoxCeleb2](https://link.zhihu.com/?target=https%3A//www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
-
+- VoxCeleb2 test dataset: [Test 118ID](https://pan.baidu.com/s/13_vSMKA6oEsnI8F2mp6-HQ?pwd=j8hn) 
 
 ## Contact
 If you have any questions, please feel free to contact with me at `Netizenwjx@foxmail.com`.
